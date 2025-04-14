@@ -1,4 +1,4 @@
-# 👋 Hi, I’m NAYMUL Islam  
+# 👋 Hi, I’m NAYMUL ISLAM
 🚀 Passionate about **Embedded Systems**, **IoT**, and **Software Development**  
 
 ## 👀 Interests  
@@ -18,8 +18,8 @@
 - 🤖 Smart automation & robotics projects  
 
 ## 📫 Reach Me At  
-📩 **Email:** engnaymul@gmail.com  
-💼 **LinkedIn:** [naymul-hasan](https://www.linkedin.com/in/naymul-hasan)  
+📩 **Email:** engnaymulbd@gmail.com  
+💼 **LinkedIn:** [naymul-hasan](https://www.linkedin.com/in/naymulislambd)  
 📡 **GitHub:** [@engnaymul](https://github.com/engnaymul)  
 
 ## 😄 Pronouns  
