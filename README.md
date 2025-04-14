@@ -1,4 +1,4 @@
-# 👋 Hi, I’m NAYMUL HASAN  
+# 👋 Hi, I’m NAYMUL Islam  
 🚀 Passionate about **Embedded Systems**, **IoT**, and **Software Development**  
 
 ## 👀 Interests  
