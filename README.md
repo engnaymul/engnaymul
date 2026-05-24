@@ -127,22 +127,3 @@
 | M.Sc. | Information & Communication Technology | CGPA 3.98 / 4.00 |
 | B.Sc. | Electronics & Communication Engineering | CGPA 3.82 / 4.00 |
 
----
-
-## Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/naymulislambd">
-    <img src="https://img.shields.io/badge/LinkedIn-Naymul_Islam-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:engnaymulbd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-engnaymulbd%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engnaymul&color=blue&style=flat" alt="Profile views"/>
-</p>
