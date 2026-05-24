@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Naymul Islam ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Naymul Islam</h1>
 
-<h3 align="center">Senior Java Engineer &nbsp;Â·&nbsp; IT Team Lead &nbsp;Â·&nbsp; Researcher &nbsp;Â·&nbsp; Educator</h3>
+<h3 align="center">Senior Java Engineer &nbsp;-&nbsp; IT Team Lead &nbsp;-&nbsp; Researcher &nbsp;-&nbsp; Educator</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/naymulislambd">
@@ -20,22 +20,20 @@
   </a>
 </p>
 
-<br/>
+---
+
+## About Me
+
+- **11+ years** building mission-critical software for enterprise banking systems in Bangladesh
+- **International Trainer** at an Applied Research Centre, United Kingdom -- Java, Spring Boot & Software Architecture
+- **PhD Candidate** -- Computer Science & Engineering, researching AI + IoT intelligent systems
+- **Part-time Faculty** -- teaching Software Engineering, AI, IoT & Full Stack Java Development
+- **Published Researcher** -- MDPI Computers, Q2-indexed journal (2024)
+- **2 research papers** currently under review in indexed journals
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
-
-- ðŸ¦ &nbsp;**11+ years** building mission-critical software for enterprise banking systems in Bangladesh
-- ðŸŒ &nbsp;**International Trainer** at an Applied Research Centre, United Kingdom â€” Java, Spring Boot & Software Architecture
-- ðŸŽ“ &nbsp;**PhD Candidate** â€” Computer Science & Engineering, researching AI + IoT intelligent systems
-- ðŸ‘¨â€ðŸ« &nbsp;**Part-time Faculty** â€” teaching Software Engineering, AI, IoT & Full Stack Java Development
-- ðŸ“„ &nbsp;**Published Researcher** â€” MDPI Computers, Q2-indexed journal (2024)
-- ðŸ”¬ &nbsp;**2 research papers** currently under review in indexed journals
-
----
-
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -75,65 +73,65 @@
 
 ---
 
-## ðŸš€ Key Projects
+## Key Projects
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [Digital Transaction Monitor](#) | Spring Boot Â· ML Â· Oracle | Real-time fraud detection & regulatory compliance platform for enterprise banking |
-| [HR Automation System](#) | Spring Boot Â· React Â· ML | ML-integrated HR platform â€” predictive analytics & workforce management |
-| [Helpdesk Management System](#) | Spring Boot Â· Thymeleaf Â· PostgreSQL | Multi-branch helpdesk serving 300+ locations |
-| [Dispute Settlement System](#) | Spring Boot Â· Oracle | Automated transaction discrepancy resolution & reconciliation |
-| [IoT Fish Farm Monitor](#) | Arduino Â· LoRa SX1278 Â· Python | Published research â€” automated pH, temperature & oxygen regulation |
-| [Smart Home Automation](#) | Arduino Â· IoT Â· Sensors | Sensor-based lighting, temperature & security control |
-| [Facial Recognition System](#) | Python Â· OpenCV Â· ML | Identity verification for security applications |
-| [LoRa Animal Farming System](#) | LoRa Â· Arduino Â· IoT | 3 km range real-time remote farm monitoring system |
+| [Digital Transaction Monitor](#) | Spring Boot - ML - Oracle | Real-time fraud detection & regulatory compliance platform for enterprise banking |
+| [HR Automation System](#) | Spring Boot - React - ML | ML-integrated HR platform -- predictive analytics & workforce management |
+| [Helpdesk Management System](#) | Spring Boot - Thymeleaf - PostgreSQL | Multi-branch helpdesk serving 300+ locations |
+| [Dispute Settlement System](#) | Spring Boot - Oracle | Automated transaction discrepancy resolution & reconciliation |
+| [IoT Fish Farm Monitor](#) | Arduino - LoRa SX1278 - Python | Published research -- automated pH, temperature & oxygen regulation |
+| [Smart Home Automation](#) | Arduino - IoT - Sensors | Sensor-based lighting, temperature & security control |
+| [Facial Recognition System](#) | Python - OpenCV - ML | Identity verification for security applications |
+| [LoRa Animal Farming System](#) | LoRa - Arduino - IoT | 3 km range real-time remote farm monitoring system |
 
 ---
 
-## ðŸ“„ Publications & Research
+## Publications & Research
 
 **Published**
 
-> ðŸ“— Naymul Islam, M. (2024). *IoT-Driven Precision in Fish Farming: Automated Temperature, Oxygen, and pH Regulation.*
-> **Computers, MDPI**, 13(10), 267. &nbsp; [ðŸ”— View Paper](https://doi.org/10.3390/computers13100267)
+> Naymul Islam, M. (2024). *IoT-Driven Precision in Fish Farming: Automated Temperature, Oxygen, and pH Regulation.*
+> **Computers, MDPI**, 13(10), 267. &nbsp; [View Paper](https://doi.org/10.3390/computers13100267)
 
 **Under Review**
 
-> ðŸ“˜ *IoT & ML-Based Framework for Continuous Non-Invasive Glucose Monitoring and Predictive Health Analytics*
+> *IoT & ML-Based Framework for Continuous Non-Invasive Glucose Monitoring and Predictive Health Analytics*
 
-> ðŸ“˜ *IoT-Integrated ML Architecture for Real-Time Server Health Monitoring and Predictive Performance Optimization*
+> *IoT-Integrated ML Architecture for Real-Time Server Health Monitoring and Predictive Performance Optimization*
 
 **Ongoing**
 
-> ðŸ“™ *Graph Theory for Software Stress Analysis: Predictive Framework for Vulnerabilities and Performance Bottlenecks*
+> *Graph Theory for Software Stress Analysis: Predictive Framework for Vulnerabilities and Performance Bottlenecks*
 
 ---
 
-## ðŸ’¼ Professional Highlights
+## Professional Highlights
 
 ```
-âœ”  11+ years enterprise banking software â€” transaction systems, HRMS, card switching
-âœ”  Architected platforms processing 10,000+ daily banking transactions
-âœ”  International collaboration â€” UK, Switzerland, Malaysia, Sri Lanka, Jordan
-âœ”  Full-stack: Java backend â†’ React/Angular frontend â†’ ML integration
-âœ”  Payment networks: VISA, MasterCard, NPSB, IBFT â€” ISO 8583 standard
-âœ”  EMV chip testing â€” ICVV, KCV, CVV â€” international card security compliance
-âœ”  Security: Spring Security, JWT, ISMS (ISO compliant)
+  11+ years enterprise banking software -- transaction systems, HRMS, card switching
+  Architected platforms processing 10,000+ daily banking transactions
+  International collaboration -- UK, Switzerland, Malaysia, Sri Lanka, Jordan
+  Full-stack: Java backend -> React/Angular frontend -> ML integration
+  Payment networks: VISA, MasterCard, NPSB, IBFT -- ISO 8583 standard
+  EMV chip testing -- ICVV, KCV, CVV -- international card security compliance
+  Security: Spring Security, JWT, ISMS (ISO compliant)
 ```
 
 ---
 
-## ðŸŽ“ Education
+## Education
 
 | Degree | Field | Result |
 |--------|-------|--------|
-| PhD â€” *Ongoing* | Computer Science & Engineering | â€” |
+| PhD -- Ongoing | Computer Science & Engineering | -- |
 | M.Sc. | Information & Communication Technology | CGPA 3.98 / 4.00 |
 | B.Sc. | Electronics & Communication Engineering | CGPA 3.82 / 4.00 |
 
 ---
 
-## ðŸ“« Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://linkedin.com/in/naymulislambd">
@@ -141,15 +139,13 @@
   </a>
   &nbsp;
   <a href="mailto:engnaymulbd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-engnaymulbd@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-engnaymulbd%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="http://www.techphiit.com">
     <img src="https://img.shields.io/badge/Website-techphiit.com-FF6B35?style=flat"/>
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=engnaymul&color=blue&style=flat" alt="Profile views"/>
