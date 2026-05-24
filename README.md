@@ -15,9 +15,7 @@
     <img src="https://img.shields.io/badge/Published-MDPI_Computers_2024-2E7D32?style=flat"/>
   </a>
   &nbsp;
-  <a href="http://www.techphiit.com">
-    <img src="https://img.shields.io/badge/Tech--Phi_IT-FF6B35?style=flat"/>
-  </a>
+
 </p>
 
 ---
@@ -142,9 +140,7 @@
     <img src="https://img.shields.io/badge/Gmail-engnaymulbd%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="http://www.techphiit.com">
-    <img src="https://img.shields.io/badge/Website-techphiit.com-FF6B35?style=flat"/>
-  </a>
+
 </p>
 
 <p align="center">
